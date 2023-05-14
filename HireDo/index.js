@@ -421,18 +421,10 @@ app.post('/hiredo/login', (req,res)=> {
                     })
                 }
                 else {
-                    res.redirect('/hiredo/user/details');//path ko active karega
-                    // res.render('profile');  
-                    let name = m.name;
-                    try {
-                        app.get('/Hiredo/user/details', (req, res) => {
-                            mess = "";
+                             mess = "";
 
                             res.render('User_details.ejs', { mess, data: m });
-                        })
-                    } catch {
-                        res.render('Session');
-                    }
+                      
                 }
                 
             }

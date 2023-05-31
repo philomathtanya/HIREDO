@@ -18,6 +18,6 @@ Hiredo aims to provide a simple and user-friendly platform for both workers and 
 Project Link: https://hiredo.onrender.com/
 
 Project Developer:
-1. @codeurritesh
-2. @philomathtanya
-3. @SurbhiBhardwaj02
+1. [@Codeurritesh](https://github.com/codeurritesh)
+2. [@philomathtanya](https://github.com/philomathtanya)
+3. [@SurbhiBhardwaj02](https://github.com/SurbhiBhardwaj02)
